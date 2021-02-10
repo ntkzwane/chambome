@@ -1,0 +1,91 @@
+{
+  "version": "2.0",
+  "columns": 2,
+  "tiles": [
+    {
+      "type": "HTTP-STATUS",
+      "label": "video-processor",
+      "params": { "url": "https://video-processor.cosign.us/healthz", "statusCodeMin": 200, "statusCodeMax": 200 }
+    },
+    {
+      "type": "HTTP-STATUS",
+      "label": "video-processor-staging",
+      "params": { "url": "https://staging.video-processor.cosign.us/healthz", "statusCodeMin": 200, "statusCodeMax": 200 }
+    },
+    {
+      "type": "HTTP-STATUS",
+      "label": "foongit-api-staging",
+      "params": { "url": "https://foongit-api-staging.herokuapp.com/healthz", "statusCodeMin": 200, "statusCodeMax": 200 }
+    },
+    {
+      "type": "HTTP-STATUS",
+      "label": "thepiratebay-api",
+      "params": { "url": "http://raspberrypi:5000", "statusCodeMin": 200, "statusCodeMax": 200 }
+    },
+    {
+      "type": "HTTP-STATUS",
+      "label": "node-red",
+      "params": { "url": "http://raspberrypi:1880", "statusCodeMin": 200, "statusCodeMax": 200 }
+    },
+    {
+      "type": "HTTP-STATUS",
+      "label": "pi-hole admin",
+      "params": { "url": "http://raspberrypi/admin", "statusCodeMin": 200, "statusCodeMax": 200 }
+    },
+    {
+      "type": "HTTP-STATUS",
+      "label": "pi-hole status",
+      "params": { "url": "http://raspberrypi:1880/pihole/status", "statusCodeMin": 200, "statusCodeMax": 200 }
+    },
+		{
+			"type": "PORT",
+			"params": {
+				"hostname": "raspberrypi",
+				"port": 53
+			}
+    },
+		{
+			"type": "PORT",
+			"params": {
+				"hostname": "raspberrypi",
+				"port": 80
+			}
+		},
+		{
+			"type": "GITLAB-PIPELINE",
+			"params": {
+				"projectId": 8912487,
+				"ref": "master"
+			}
+		},
+		{
+			"type": "GITLAB-PIPELINE",
+			"params": {
+				"projectId": 8912504,
+				"ref": "master"
+			}
+		},
+		{
+			"type": "GITLAB-PIPELINE",
+			"params": {
+				"projectId": 11288725,
+				"ref": "master"
+			}
+		},
+		{
+			"type": "GITLAB-PIPELINE",
+			"params": {
+				"projectId": 19778352,
+				"ref": "master"
+			}
+		},
+		{
+			"type": "GITLAB-PIPELINE",
+			"params": {
+				"projectId": 19019082,
+				"ref": "master"
+			}
+		}
+  ]
+}
+
