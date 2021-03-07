@@ -43,3 +43,11 @@ node_modules
 .*_cred.json.backup
 *_cred.json
 .config.runtime.json
+
+# Yarn Modern
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+
