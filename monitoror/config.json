@@ -14,8 +14,8 @@
     },
     {
       "type": "HTTP-STATUS",
-      "label": "foongit-api-staging",
-      "params": { "url": "https://foongit-api-staging.herokuapp.com/healthz", "statusCodeMin": 200, "statusCodeMax": 200 }
+      "label": "foongit-api",
+      "params": { "url": "https://foongit-api.herokuapp.com/healthz", "statusCodeMin": 200, "statusCodeMax": 200 }
     },
     {
       "type": "HTTP-STATUS",
