@@ -12,7 +12,7 @@
                 "enabled": true,
                 "local": false,
                 "module": "node-red",
-                "file": "/home/pi/.nvm/versions/node/v14.15.5/lib/node_modules/node-red/node_modules/@node-red/nodes/core/common/20-inject.js"
+                "file": "/home/pi/.nvm/versions/node/v14.16.0/lib/node_modules/node-red/node_modules/@node-red/nodes/core/common/20-inject.js"
             },
             "debug": {
                 "name": "debug",
@@ -22,7 +22,7 @@
                 "enabled": true,
                 "local": false,
                 "module": "node-red",
-                "file": "/home/pi/.nvm/versions/node/v14.15.5/lib/node_modules/node-red/node_modules/@node-red/nodes/core/common/21-debug.js"
+                "file": "/home/pi/.nvm/versions/node/v14.16.0/lib/node_modules/node-red/node_modules/@node-red/nodes/core/common/21-debug.js"
             },
             "complete": {
                 "name": "complete",
@@ -32,7 +32,7 @@
                 "enabled": true,
                 "local": false,
                 "module": "node-red",
-                "file": "/home/pi/.nvm/versions/node/v14.15.5/lib/node_modules/node-red/node_modules/@node-red/nodes/core/common/24-complete.js"
+                "file": "/home/pi/.nvm/versions/node/v14.16.0/lib/node_modules/node-red/node_modules/@node-red/nodes/core/common/24-complete.js"
             },
             "catch": {
                 "name": "catch",
@@ -42,7 +42,7 @@
                 "enabled": true,
                 "local": false,
                 "module": "node-red",
-                "file": "/home/pi/.nvm/versions/node/v14.15.5/lib/node_modules/node-red/node_modules/@node-red/nodes/core/common/25-catch.js"
+                "file": "/home/pi/.nvm/versions/node/v14.16.0/lib/node_modules/node-red/node_modules/@node-red/nodes/core/common/25-catch.js"
             },
             "status": {
                 "name": "status",
@@ -52,7 +52,7 @@
                 "enabled": true,
                 "local": false,
                 "module": "node-red",
-                "file": "/home/pi/.nvm/versions/node/v14.15.5/lib/node_modules/node-red/node_modules/@node-red/nodes/core/common/25-status.js"
+                "file": "/home/pi/.nvm/versions/node/v14.16.0/lib/node_modules/node-red/node_modules/@node-red/nodes/core/common/25-status.js"
             },
             "link": {
                 "name": "link",
@@ -63,7 +63,7 @@
                 "enabled": true,
                 "local": false,
                 "module": "node-red",
-                "file": "/home/pi/.nvm/versions/node/v14.15.5/lib/node_modules/node-red/node_modules/@node-red/nodes/core/common/60-link.js"
+                "file": "/home/pi/.nvm/versions/node/v14.16.0/lib/node_modules/node-red/node_modules/@node-red/nodes/core/common/60-link.js"
             },
             "comment": {
                 "name": "comment",
@@ -73,7 +73,7 @@
                 "enabled": true,
                 "local": false,
                 "module": "node-red",
-                "file": "/home/pi/.nvm/versions/node/v14.15.5/lib/node_modules/node-red/node_modules/@node-red/nodes/core/common/90-comment.js"
+                "file": "/home/pi/.nvm/versions/node/v14.16.0/lib/node_modules/node-red/node_modules/@node-red/nodes/core/common/90-comment.js"
             },
             "unknown": {
                 "name": "unknown",
@@ -83,7 +83,7 @@
                 "enabled": true,
                 "local": false,
                 "module": "node-red",
-                "file": "/home/pi/.nvm/versions/node/v14.15.5/lib/node_modules/node-red/node_modules/@node-red/nodes/core/common/98-unknown.js"
+                "file": "/home/pi/.nvm/versions/node/v14.16.0/lib/node_modules/node-red/node_modules/@node-red/nodes/core/common/98-unknown.js"
             },
             "function": {
                 "name": "function",
@@ -93,7 +93,7 @@
                 "enabled": true,
                 "local": false,
                 "module": "node-red",
-                "file": "/home/pi/.nvm/versions/node/v14.15.5/lib/node_modules/node-red/node_modules/@node-red/nodes/core/function/10-function.js"
+                "file": "/home/pi/.nvm/versions/node/v14.16.0/lib/node_modules/node-red/node_modules/@node-red/nodes/core/function/10-function.js"
             },
             "switch": {
                 "name": "switch",
@@ -103,7 +103,7 @@
                 "enabled": true,
                 "local": false,
                 "module": "node-red",
-                "file": "/home/pi/.nvm/versions/node/v14.15.5/lib/node_modules/node-red/node_modules/@node-red/nodes/core/function/10-switch.js"
+                "file": "/home/pi/.nvm/versions/node/v14.16.0/lib/node_modules/node-red/node_modules/@node-red/nodes/core/function/10-switch.js"
             },
             "change": {
                 "name": "change",
@@ -113,7 +113,7 @@
                 "enabled": true,
                 "local": false,
                 "module": "node-red",
-                "file": "/home/pi/.nvm/versions/node/v14.15.5/lib/node_modules/node-red/node_modules/@node-red/nodes/core/function/15-change.js"
+                "file": "/home/pi/.nvm/versions/node/v14.16.0/lib/node_modules/node-red/node_modules/@node-red/nodes/core/function/15-change.js"
             },
             "range": {
                 "name": "range",
@@ -123,7 +123,7 @@
                 "enabled": true,
                 "local": false,
                 "module": "node-red",
-                "file": "/home/pi/.nvm/versions/node/v14.15.5/lib/node_modules/node-red/node_modules/@node-red/nodes/core/function/16-range.js"
+                "file": "/home/pi/.nvm/versions/node/v14.16.0/lib/node_modules/node-red/node_modules/@node-red/nodes/core/function/16-range.js"
             },
             "template": {
                 "name": "template",
@@ -133,7 +133,7 @@
                 "enabled": true,
                 "local": false,
                 "module": "node-red",
-                "file": "/home/pi/.nvm/versions/node/v14.15.5/lib/node_modules/node-red/node_modules/@node-red/nodes/core/function/80-template.js"
+                "file": "/home/pi/.nvm/versions/node/v14.16.0/lib/node_modules/node-red/node_modules/@node-red/nodes/core/function/80-template.js"
             },
             "delay": {
                 "name": "delay",
@@ -143,7 +143,7 @@
                 "enabled": true,
                 "local": false,
                 "module": "node-red",
-                "file": "/home/pi/.nvm/versions/node/v14.15.5/lib/node_modules/node-red/node_modules/@node-red/nodes/core/function/89-delay.js"
+                "file": "/home/pi/.nvm/versions/node/v14.16.0/lib/node_modules/node-red/node_modules/@node-red/nodes/core/function/89-delay.js"
             },
             "trigger": {
                 "name": "trigger",
@@ -153,7 +153,7 @@
                 "enabled": true,
                 "local": false,
                 "module": "node-red",
-                "file": "/home/pi/.nvm/versions/node/v14.15.5/lib/node_modules/node-red/node_modules/@node-red/nodes/core/function/89-trigger.js"
+                "file": "/home/pi/.nvm/versions/node/v14.16.0/lib/node_modules/node-red/node_modules/@node-red/nodes/core/function/89-trigger.js"
             },
             "exec": {
                 "name": "exec",
@@ -163,7 +163,7 @@
                 "enabled": true,
                 "local": false,
                 "module": "node-red",
-                "file": "/home/pi/.nvm/versions/node/v14.15.5/lib/node_modules/node-red/node_modules/@node-red/nodes/core/function/90-exec.js"
+                "file": "/home/pi/.nvm/versions/node/v14.16.0/lib/node_modules/node-red/node_modules/@node-red/nodes/core/function/90-exec.js"
             },
             "tls": {
                 "name": "tls",
@@ -173,7 +173,7 @@
                 "enabled": true,
                 "local": false,
                 "module": "node-red",
-                "file": "/home/pi/.nvm/versions/node/v14.15.5/lib/node_modules/node-red/node_modules/@node-red/nodes/core/network/05-tls.js"
+                "file": "/home/pi/.nvm/versions/node/v14.16.0/lib/node_modules/node-red/node_modules/@node-red/nodes/core/network/05-tls.js"
             },
             "httpproxy": {
                 "name": "httpproxy",
@@ -183,7 +183,7 @@
                 "enabled": true,
                 "local": false,
                 "module": "node-red",
-                "file": "/home/pi/.nvm/versions/node/v14.15.5/lib/node_modules/node-red/node_modules/@node-red/nodes/core/network/06-httpproxy.js"
+                "file": "/home/pi/.nvm/versions/node/v14.16.0/lib/node_modules/node-red/node_modules/@node-red/nodes/core/network/06-httpproxy.js"
             },
             "mqtt": {
                 "name": "mqtt",
@@ -195,7 +195,7 @@
                 "enabled": true,
                 "local": false,
                 "module": "node-red",
-                "file": "/home/pi/.nvm/versions/node/v14.15.5/lib/node_modules/node-red/node_modules/@node-red/nodes/core/network/10-mqtt.js"
+                "file": "/home/pi/.nvm/versions/node/v14.16.0/lib/node_modules/node-red/node_modules/@node-red/nodes/core/network/10-mqtt.js"
             },
             "httpin": {
                 "name": "httpin",
@@ -206,7 +206,7 @@
                 "enabled": true,
                 "local": false,
                 "module": "node-red",
-                "file": "/home/pi/.nvm/versions/node/v14.15.5/lib/node_modules/node-red/node_modules/@node-red/nodes/core/network/21-httpin.js"
+                "file": "/home/pi/.nvm/versions/node/v14.16.0/lib/node_modules/node-red/node_modules/@node-red/nodes/core/network/21-httpin.js"
             },
             "httprequest": {
                 "name": "httprequest",
@@ -216,7 +216,7 @@
                 "enabled": true,
                 "local": false,
                 "module": "node-red",
-                "file": "/home/pi/.nvm/versions/node/v14.15.5/lib/node_modules/node-red/node_modules/@node-red/nodes/core/network/21-httprequest.js"
+                "file": "/home/pi/.nvm/versions/node/v14.16.0/lib/node_modules/node-red/node_modules/@node-red/nodes/core/network/21-httprequest.js"
             },
             "websocket": {
                 "name": "websocket",
@@ -229,7 +229,7 @@
                 "enabled": true,
                 "local": false,
                 "module": "node-red",
-                "file": "/home/pi/.nvm/versions/node/v14.15.5/lib/node_modules/node-red/node_modules/@node-red/nodes/core/network/22-websocket.js"
+                "file": "/home/pi/.nvm/versions/node/v14.16.0/lib/node_modules/node-red/node_modules/@node-red/nodes/core/network/22-websocket.js"
             },
             "tcpin": {
                 "name": "tcpin",
@@ -241,7 +241,7 @@
                 "enabled": true,
                 "local": false,
                 "module": "node-red",
-                "file": "/home/pi/.nvm/versions/node/v14.15.5/lib/node_modules/node-red/node_modules/@node-red/nodes/core/network/31-tcpin.js"
+                "file": "/home/pi/.nvm/versions/node/v14.16.0/lib/node_modules/node-red/node_modules/@node-red/nodes/core/network/31-tcpin.js"
             },
             "udp": {
                 "name": "udp",
@@ -252,7 +252,7 @@
                 "enabled": true,
                 "local": false,
                 "module": "node-red",
-                "file": "/home/pi/.nvm/versions/node/v14.15.5/lib/node_modules/node-red/node_modules/@node-red/nodes/core/network/32-udp.js"
+                "file": "/home/pi/.nvm/versions/node/v14.16.0/lib/node_modules/node-red/node_modules/@node-red/nodes/core/network/32-udp.js"
             },
             "CSV": {
                 "name": "CSV",
@@ -262,7 +262,7 @@
                 "enabled": true,
                 "local": false,
                 "module": "node-red",
-                "file": "/home/pi/.nvm/versions/node/v14.15.5/lib/node_modules/node-red/node_modules/@node-red/nodes/core/parsers/70-CSV.js"
+                "file": "/home/pi/.nvm/versions/node/v14.16.0/lib/node_modules/node-red/node_modules/@node-red/nodes/core/parsers/70-CSV.js"
             },
             "HTML": {
                 "name": "HTML",
@@ -272,7 +272,7 @@
                 "enabled": true,
                 "local": false,
                 "module": "node-red",
-                "file": "/home/pi/.nvm/versions/node/v14.15.5/lib/node_modules/node-red/node_modules/@node-red/nodes/core/parsers/70-HTML.js"
+                "file": "/home/pi/.nvm/versions/node/v14.16.0/lib/node_modules/node-red/node_modules/@node-red/nodes/core/parsers/70-HTML.js"
             },
             "JSON": {
                 "name": "JSON",
@@ -282,7 +282,7 @@
                 "enabled": true,
                 "local": false,
                 "module": "node-red",
-                "file": "/home/pi/.nvm/versions/node/v14.15.5/lib/node_modules/node-red/node_modules/@node-red/nodes/core/parsers/70-JSON.js"
+                "file": "/home/pi/.nvm/versions/node/v14.16.0/lib/node_modules/node-red/node_modules/@node-red/nodes/core/parsers/70-JSON.js"
             },
             "XML": {
                 "name": "XML",
@@ -292,7 +292,7 @@
                 "enabled": true,
                 "local": false,
                 "module": "node-red",
-                "file": "/home/pi/.nvm/versions/node/v14.15.5/lib/node_modules/node-red/node_modules/@node-red/nodes/core/parsers/70-XML.js"
+                "file": "/home/pi/.nvm/versions/node/v14.16.0/lib/node_modules/node-red/node_modules/@node-red/nodes/core/parsers/70-XML.js"
             },
             "YAML": {
                 "name": "YAML",
@@ -302,7 +302,7 @@
                 "enabled": true,
                 "local": false,
                 "module": "node-red",
-                "file": "/home/pi/.nvm/versions/node/v14.15.5/lib/node_modules/node-red/node_modules/@node-red/nodes/core/parsers/70-YAML.js"
+                "file": "/home/pi/.nvm/versions/node/v14.16.0/lib/node_modules/node-red/node_modules/@node-red/nodes/core/parsers/70-YAML.js"
             },
             "split": {
                 "name": "split",
@@ -313,7 +313,7 @@
                 "enabled": true,
                 "local": false,
                 "module": "node-red",
-                "file": "/home/pi/.nvm/versions/node/v14.15.5/lib/node_modules/node-red/node_modules/@node-red/nodes/core/sequence/17-split.js"
+                "file": "/home/pi/.nvm/versions/node/v14.16.0/lib/node_modules/node-red/node_modules/@node-red/nodes/core/sequence/17-split.js"
             },
             "sort": {
                 "name": "sort",
@@ -323,7 +323,7 @@
                 "enabled": true,
                 "local": false,
                 "module": "node-red",
-                "file": "/home/pi/.nvm/versions/node/v14.15.5/lib/node_modules/node-red/node_modules/@node-red/nodes/core/sequence/18-sort.js"
+                "file": "/home/pi/.nvm/versions/node/v14.16.0/lib/node_modules/node-red/node_modules/@node-red/nodes/core/sequence/18-sort.js"
             },
             "batch": {
                 "name": "batch",
@@ -333,7 +333,7 @@
                 "enabled": true,
                 "local": false,
                 "module": "node-red",
-                "file": "/home/pi/.nvm/versions/node/v14.15.5/lib/node_modules/node-red/node_modules/@node-red/nodes/core/sequence/19-batch.js"
+                "file": "/home/pi/.nvm/versions/node/v14.16.0/lib/node_modules/node-red/node_modules/@node-red/nodes/core/sequence/19-batch.js"
             },
             "file": {
                 "name": "file",
@@ -344,7 +344,7 @@
                 "enabled": true,
                 "local": false,
                 "module": "node-red",
-                "file": "/home/pi/.nvm/versions/node/v14.15.5/lib/node_modules/node-red/node_modules/@node-red/nodes/core/storage/10-file.js"
+                "file": "/home/pi/.nvm/versions/node/v14.16.0/lib/node_modules/node-red/node_modules/@node-red/nodes/core/storage/10-file.js"
             },
             "watch": {
                 "name": "watch",
@@ -354,7 +354,7 @@
                 "enabled": true,
                 "local": false,
                 "module": "node-red",
-                "file": "/home/pi/.nvm/versions/node/v14.15.5/lib/node_modules/node-red/node_modules/@node-red/nodes/core/storage/23-watch.js"
+                "file": "/home/pi/.nvm/versions/node/v14.16.0/lib/node_modules/node-red/node_modules/@node-red/nodes/core/storage/23-watch.js"
             }
         }
     },
@@ -501,7 +501,7 @@
                 "enabled": true,
                 "local": false,
                 "module": "node-red-node-rbe",
-                "file": "/home/pi/.nvm/versions/node/v14.15.5/lib/node_modules/node-red/node_modules/node-red-node-rbe/rbe.js"
+                "file": "/home/pi/.nvm/versions/node/v14.16.0/lib/node_modules/node-red/node_modules/node-red-node-rbe/rbe.js"
             }
         }
     },
@@ -518,7 +518,7 @@
                 "enabled": true,
                 "local": false,
                 "module": "node-red-node-tail",
-                "file": "/home/pi/.nvm/versions/node/v14.15.5/lib/node_modules/node-red/node_modules/node-red-node-tail/28-tail.js"
+                "file": "/home/pi/.nvm/versions/node/v14.16.0/lib/node_modules/node-red/node_modules/node-red-node-tail/28-tail.js"
             }
         }
     }

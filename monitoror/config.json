@@ -4,16 +4,6 @@
   "tiles": [
     {
       "type": "HTTP-STATUS",
-      "label": "video-processor",
-      "params": { "url": "https://video-processor.cosign.us/healthz", "statusCodeMin": 200, "statusCodeMax": 200 }
-    },
-    {
-      "type": "HTTP-STATUS",
-      "label": "video-processor-staging",
-      "params": { "url": "https://staging.video-processor.cosign.us/healthz", "statusCodeMin": 200, "statusCodeMax": 200 }
-    },
-    {
-      "type": "HTTP-STATUS",
       "label": "foongit-api",
       "params": { "url": "https://foongit-api.herokuapp.com/healthz", "statusCodeMin": 200, "statusCodeMax": 200 }
     },
@@ -37,6 +27,11 @@
       "label": "pi-hole status",
       "params": { "url": "http://raspberrypi:1880/pihole/status", "statusCodeMin": 200, "statusCodeMax": 200 }
     },
+    {
+      "type": "HTTP-STATUS",
+      "label": "plex-ms status",
+      "params": { "url": "http://raspberrypi:32400/web", "statusCodeMin": 200, "statusCodeMax": 200 }
+    },
 		{
 			"type": "PORT",
 			"params": {
@@ -49,27 +44,6 @@
 			"params": {
 				"hostname": "raspberrypi",
 				"port": 80
-			}
-		},
-		{
-			"type": "GITLAB-PIPELINE",
-			"params": {
-				"projectId": 8912487,
-				"ref": "master"
-			}
-		},
-		{
-			"type": "GITLAB-PIPELINE",
-			"params": {
-				"projectId": 8912504,
-				"ref": "master"
-			}
-		},
-		{
-			"type": "GITLAB-PIPELINE",
-			"params": {
-				"projectId": 11288725,
-				"ref": "master"
 			}
 		},
 		{
